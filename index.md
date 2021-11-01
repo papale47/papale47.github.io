@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[NLP](/pdf/sample_presentation.pdf)
+[NLP](/NLP/W266_Final_Project_Papale.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
