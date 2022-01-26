@@ -4,7 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/Notebooks/Models.ipynb)
+[Attrition Modeling Project](/Notebooks/Models.ipynb)
+[Paper](/Notebooks/Models.ipynb)
+This project combines....
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
