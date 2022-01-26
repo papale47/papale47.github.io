@@ -3,7 +3,7 @@ logo: "images/Professional_Portrait.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br>
-    item: This is my first description.  I think it take a minute for things to update on Github.
+    This is my first description.  I think it take a minute for things to update on Github.
   <br>
   Second description
   <br>This is my second description<br>
