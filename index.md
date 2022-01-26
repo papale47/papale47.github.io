@@ -3,8 +3,7 @@
 ---
 
 ### Attrition Modeling Project
-[Attrition Modeling Project](/Notebooks/Models.ipynb) <br>
-[Paper](/Notebooks/Models.ipynb) <br>
+[Attrition Modeling Project](/Notebooks/Toy_DS_Project.ipynb) <br>
 This project combines.... <br>
 <img src="images/Economic_Framework2.png?raw=true"/>
 
