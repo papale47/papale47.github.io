@@ -3,7 +3,7 @@
 ---
 
 ### Attrition Modeling Project
-[Attrition Modeling Project](/Notebooks/Toy_DS_Project.ipynb) <br>
+[Attrition Modeling Project](https://colab.research.google.com/drive/1WpCJY0jThIiQxfWPF62ycwbyh8s5P2vU?usp=sharing) <br>
 This project combines.... <br>
 <img src="images/Economic_Framework2.png?raw=true"/>
 
