@@ -2,26 +2,25 @@
 
 ---
 
-### Category Name 1 
-
-[Attrition Modeling Project](/Notebooks/Models.ipynb)
-[Paper](/Notebooks/Models.ipynb)
-<br>
-This project combines....
-<br>
+###Attrition Modeling Project
+[Attrition Modeling Project](/Notebooks/Models.ipynb) <br>
+[Paper](/Notebooks/Models.ipynb) <br>
+This project combines.... <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[NLP](/NLP/W266_Final_Project_Papale.ipynb)
+### NLP Project
+[NLP](/NLP/W266_Final_Project_Papale.ipynb) <br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/> 
+
+---
+### PySpark Project
+[Project 3 Title](http://example.com/) <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
+###
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
