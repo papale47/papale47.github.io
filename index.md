@@ -20,6 +20,7 @@ My initial motivation for creating this notebook was to create an end-to-end mod
 ---
 ### Predicting Customer Satisfaction Using Call Transcripts and Deep Learning Models
 [White Paper](pdf/w266_Final_Project.pdf) <br>
+[Presentation](https://docs.google.com/presentation/d/1jyofU1cUSDB_NifqXl3WcC0d5itfWP5yfcuBDXIDkTA/edit?usp=sharing)
 [Jupyter Notebook](https://colab.research.google.com/drive/1bbrwdkc-Omtqgm0po-nkhplJ7ix4iiVz?usp=sharing) <br><br>
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
 <br>
@@ -28,6 +29,17 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 
 ---
 ### Predicting Airline Delays with PySpark
+[Presentation](https://docs.google.com/presentation/d/10HnP3S5U1qiBSeUcAGHE4QvmwD1jCLBdbmKnRZLdBdk/edit?usp=sharing)
+[Jupyter Notebook](https://colab.research.google.com/drive/1cq7fL8VG1slNzsTGw1x1slNkqKLDvDET?usp=sharing) <br><br>
+This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
+<br>
+<br>
+<img src="images/GBT_Confusion_Matrix_Spark_Project.png?raw=true"/> 
+
+---
+
+### Foster Care Matcher Project (UC Berkeley MIDS Capstone)
+[Presentation](https://docs.google.com/presentation/d/1i6v82ls_K5gv1CMo65wCuCMUe5iEGgjahMEikmlWTy4/edit?usp=sharing)
 [Jupyter Notebook](https://colab.research.google.com/drive/1cq7fL8VG1slNzsTGw1x1slNkqKLDvDET?usp=sharing) <br><br>
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
 <br>
