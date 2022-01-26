@@ -63,13 +63,25 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 
 
 ---
+### Understanding Drivers Behind Crime in Gotham City Using Regression
+[Notebook](https://colab.research.google.com/drive/1M015KXvRmL2zYe8fxPcGjo_BAiaqRXfa?usp=sharing) <br>
+This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
+<br>
+<br>
+<img src="images/Gotham_City.PNG?raw=true"/> 
+
+
+---
 ### Business Consulting Project for IFish Fishing Apparel Company (Mississippi State MBA Capstone)
-[White Paper](pdf/IFish Report.pdf) <br>
-[Presentation](pdf/IFISH - Final Presentation.pdf) <br>
+[White Paper](pdf/IFish_Report.pdf) <br>
+[Presentation](pdf/IFISH_Final_Presentation.pdf) <br>
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
 <br>
 <br>
 <img src="images/IFish Logo.PNG?raw=true"/> 
+
+
+
 
 
 ###
