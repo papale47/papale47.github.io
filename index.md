@@ -39,8 +39,8 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 ---
 
 ### Foster Care Matcher Project (UC Berkeley MIDS Capstone)
-[Project Page (Berkeley Website](https://www.ischool.berkeley.edu/projects/2021/foster-care-matcher) <br>
-[Project Page (Website Developed by Team](https://groups.ischool.berkeley.edu/FostercareMatcher/ <br>
+[Project Page (Berkeley Website)](https://www.ischool.berkeley.edu/projects/2021/foster-care-matcher) <br>
+[Project Page (Website Developed by Team)](https://groups.ischool.berkeley.edu/FostercareMatcher/) <br>
 [Presentation](https://docs.google.com/presentation/d/1i6v82ls_K5gv1CMo65wCuCMUe5iEGgjahMEikmlWTy4/edit?usp=sharing) <br>
 [Jupyter Notebook](https://colab.research.google.com/drive/1cq7fL8VG1slNzsTGw1x1slNkqKLDvDET?usp=sharing) <br><br>
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
