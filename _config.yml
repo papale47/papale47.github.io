@@ -2,9 +2,9 @@ title: Jason Papale # your name (or website title) here
 logo: "images/Professional_Portrait.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>This is my first description<br>
   Second description 
-  <br><br>
+  <br>This is my second description<br>
   <a href="https://www.linkedin.com/in/jason-papale-97912b108">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
