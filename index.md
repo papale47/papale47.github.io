@@ -18,26 +18,6 @@ My initial motivation for creating this notebook was to create an end-to-end mod
 <img src="images/Economic_Framework2.png?raw=true"/>
 
 ---
-### Predicting Customer Satisfaction Using Call Transcripts and Deep Learning Models
-[White Paper](pdf/w266_Final_Project.pdf) <br>
-[Presentation](https://docs.google.com/presentation/d/1jyofU1cUSDB_NifqXl3WcC0d5itfWP5yfcuBDXIDkTA/edit?usp=sharing) <br>
-[Jupyter Notebook](https://colab.research.google.com/drive/1bbrwdkc-Omtqgm0po-nkhplJ7ix4iiVz?usp=sharing) <br><br>
-This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
-<br>
-<br>
-<img src="images/Precision-Recall Curves.PNG?raw=true"/> 
-
----
-### Predicting Airline Delays with PySpark
-[Presentation](https://docs.google.com/presentation/d/10HnP3S5U1qiBSeUcAGHE4QvmwD1jCLBdbmKnRZLdBdk/edit?usp=sharing) <br>
-[Jupyter Notebook](https://colab.research.google.com/drive/1_nijztiOgOJ0UI98Ix1GdhtSRPcjKztC?usp=sharing) <br><br>
-This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
-<br>
-<br>
-<img src="images/Airline Project Results.PNG?raw=true"/> 
-
----
-
 ### Foster Care Matcher Project (UC Berkeley MIDS Capstone)
 [Project Page (Berkeley Website)](https://www.ischool.berkeley.edu/projects/2021/foster-care-matcher) <br>
 [Project Page (Website Developed by Team)](https://groups.ischool.berkeley.edu/FostercareMatcher/) <br>
@@ -48,8 +28,29 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 <br>
 <img src="images/FCM Logo.PNG?raw=true"/> 
 
----
 
+---
+### Predicting Customer Satisfaction Using Call Transcripts and Deep Learning Models
+[White Paper](pdf/w266_Final_Project.pdf) <br>
+[Presentation](https://docs.google.com/presentation/d/1jyofU1cUSDB_NifqXl3WcC0d5itfWP5yfcuBDXIDkTA/edit?usp=sharing) <br>
+[Jupyter Notebook](https://colab.research.google.com/drive/1bbrwdkc-Omtqgm0po-nkhplJ7ix4iiVz?usp=sharing) <br><br>
+This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
+<br>
+<br>
+<img src="images/Precision-Recall Curves.PNG?raw=true"/> 
+
+
+---
+### Predicting Airline Delays with PySpark
+[Presentation](https://docs.google.com/presentation/d/10HnP3S5U1qiBSeUcAGHE4QvmwD1jCLBdbmKnRZLdBdk/edit?usp=sharing) <br>
+[Jupyter Notebook](https://colab.research.google.com/drive/1_nijztiOgOJ0UI98Ix1GdhtSRPcjKztC?usp=sharing) <br><br>
+This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
+<br>
+<br>
+<img src="images/Airline Project Results.PNG?raw=true"/> 
+
+
+---
 ### Diagnosing COVID Infection Using Chest CT Scans and Deep Learning Models
 [White Paper](https://docs.google.com/document/d/1tqgsLxmJMESIS1umfFzvvO6LrEpHSe7dHGsX1zvpBXo/edit?usp=sharing) <br>
 [Presentation](https://docs.google.com/presentation/d/1YjssHAXVPUgLLcRoLHWWMD10kihpt5fHwWFfoxR7WHM/edit?usp=sharing) <br>
@@ -60,6 +61,15 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 <br>
 <img src="images/Covid_CNN_Image.PNG?raw=true"/> 
 
+
+---
+### Business Consulting Project for IFish Fishing Apparel Company (Mississippi State MBA Capstone)
+[White Paper](pdf/IFish Report.pdf) <br>
+[Presentation](pdf/IFISH - Final Presentation.pdf) <br>
+This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
+<br>
+<br>
+<img src="images/IFish Logo.PNG?raw=true"/> 
 
 
 ###
