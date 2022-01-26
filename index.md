@@ -20,7 +20,8 @@ My initial motivation for creating this notebook was to create an end-to-end mod
 ### NLP Project
 [White Paper](pdf/w266_Final_Project.pdf) <br>
 [Jupyter Notebook](Notebooks/W266_Final_Project_Papale.ipynb) <br><br>
-This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes:
+This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
+<br>
 <br>
 <img src="images/Precision-Recall Curves.PNG?raw=true"/> 
 
