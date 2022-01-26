@@ -30,7 +30,7 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 ---
 ### Predicting Airline Delays with PySpark
 [Presentation](https://docs.google.com/presentation/d/10HnP3S5U1qiBSeUcAGHE4QvmwD1jCLBdbmKnRZLdBdk/edit?usp=sharing) <br>
-[Jupyter Notebook](https://colab.research.google.com/drive/1cq7fL8VG1slNzsTGw1x1slNkqKLDvDET?usp=sharing) <br><br>
+[Jupyter Notebook](https://colab.research.google.com/drive/1_nijztiOgOJ0UI98Ix1GdhtSRPcjKztC?usp=sharing) <br><br>
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
 <br>
 <br>
