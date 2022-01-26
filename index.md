@@ -48,7 +48,8 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
 <br>
 <br>
-<img src="images/Airline Project Results.PNG?raw=true"/> 
+[Model Performance Values for All Models Developed](images/Airline_Project_Results.PNG)
+<img src="images/Airline_Project_Results.PNG?raw=true"/> 
 
 
 ---
