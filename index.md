@@ -17,13 +17,14 @@ My initial motivation for creating this notebook was to create an end-to-end mod
 [Economic Framework to Translate Model Performance into Expected Business Impact (click to see a larger picture)](images/Economic_Framework2.png)
 <img src="images/Economic_Framework2.png?raw=true"/>
 
+
 ---
 ### Foster Care Matcher Project (UC Berkeley MIDS Capstone)
 [Project Page (Berkeley Website)](https://www.ischool.berkeley.edu/projects/2021/foster-care-matcher) <br>
 [Project Page (Website Developed by Team)](https://groups.ischool.berkeley.edu/FostercareMatcher/) <br>
 [Presentation](https://docs.google.com/presentation/d/1i6v82ls_K5gv1CMo65wCuCMUe5iEGgjahMEikmlWTy4/edit?usp=sharing) <br>
 [Jupyter Notebook](https://colab.research.google.com/drive/1R582ZZjfWUIhLHSJTNy6it1xjZUhsvSm?usp=sharing) <br><br>
-This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
+This project entailed the development of an interpretable decision support tool intended to be used by foster care placement specialists in order to aid them in making more effective placements between a foster child and a foster parent. This was my capstone project as part of the UC Berkeley MIDS program, and I worked on this project with 3 other team members. Though we all collaborated and worked on multiple parts, my main contribution centered around the development of two XGBoost models.  The first model was a regression model designed to predict the duration of a given foster care placement.  The second model was a classification model which was designed to predict the probability of a good placement outcome.  Our project was selected as a finalist for the MIDS Val Harian Capstone Award which is awarded to the team with the top project each semester.
 <br>
 <br>
 <img src="images/FCM Logo.PNG?raw=true"/> 
