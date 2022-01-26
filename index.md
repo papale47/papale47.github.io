@@ -6,7 +6,7 @@
 [Attrition Modeling Project](/Notebooks/Models.ipynb) <br>
 [Paper](/Notebooks/Models.ipynb) <br>
 This project combines.... <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/EconomicFramework.png?raw=true"/>
 
 ---
 ### NLP Project
