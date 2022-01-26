@@ -28,7 +28,7 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 
 ---
 ### PySpark Project
-[Jupyter Notebook](Notebooks/W261_SU21_FINAL_PROJECT_TEAM13.ipynb) <br><br>
+[Jupyter Notebook](https://colab.research.google.com/drive/1cq7fL8VG1slNzsTGw1x1slNkqKLDvDET?usp=sharing) <br><br>
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
 <br>
 <br>
