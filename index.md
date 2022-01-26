@@ -78,7 +78,7 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
 <br>
 <br>
-<img src="images/IFish Logo.PNG?raw=true"/> 
+<img src="images/IFish_Logo.PNG?raw=true"/> 
 
 
 
