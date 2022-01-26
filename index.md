@@ -2,7 +2,7 @@
 
 ---
 
-###Attrition Modeling Project
+### Attrition Modeling Project
 [Attrition Modeling Project](/Notebooks/Models.ipynb) <br>
 [Paper](/Notebooks/Models.ipynb) <br>
 This project combines.... <br>
