@@ -14,13 +14,15 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 My initial motivation for creating this notebook was to create an end-to-end modeling project using open source data that would allow me to consolidate related bodies of work I have pursued (in both academic and professional settings) in one place. I was also interested in having a platform (i.e., Google Colab) on which I could use an open source dataset to explore and become more proficienct in data science techniques I have not worked with yet. Another motivation for writing this notebook is to serve as a guide for others who are interested in learning more about modeling, experimentation, or translating model performance to business impact. Finally, I do intend to continually supplement and improve upon this notebook over time, so if there are any suggestions or errors which you identify, please let me know!
 <br>
 <br>
-![Economic Framework](images/Economic_Framework2.png)
 <img src="images/Economic_Framework2.png?raw=true"/>
 
 ---
 ### NLP Project
-[NLP](/NLP/W266_Final_Project_Papale.ipynb) <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/> 
+[White Paper](pdf/w266_Final_Project.pdf) <br>
+[Jupyter Notebook](Notebooks/W266_Final_Project_Papale.ipynb) <br><br>
+This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes:
+<br>
+<img src="images/Precision-Recall Curves.PNG?raw=true"/> 
 
 ---
 ### PySpark Project
