@@ -10,7 +10,7 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 2.  The development and evaluation of two classification models which includes the use of Bayesian Optimization to find more optimal hyperparameters <br>
 3.  An economic framework which aids in translating model performance into expected business impact, as well as in identifying the optimal classification threshold <br>
 4.  A simulated experiment which quantifies the impact of a model-driven treatment 
-<br>
+
 My initial motivation for creating this notebook was to consolidate many of the 
 <img src="images/Economic_Framework2.png?raw=true"/>
 
