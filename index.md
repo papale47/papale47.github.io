@@ -34,7 +34,7 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
 <br>
 <br>
-<img src="images/GBT_Confusion_Matrix_Spark_Project.png?raw=true"/> 
+<img src="images/Airline Project Results.PNG?raw=true"/> 
 
 ---
 
@@ -46,7 +46,7 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
 <br>
 <br>
-<img src="images/GBT_Confusion_Matrix_Spark_Project.png?raw=true"/> 
+<img src="images/FCM Logo.PNG?raw=true"/> 
 
 ---
 
