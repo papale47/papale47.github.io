@@ -37,8 +37,8 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
 <br>
 <br>
-[Precision Recall Curves for All NLP Models Developed (click to see a larger picture)](images/Precision-Recall Curves.PNG)
-<img src="images/Precision-Recall Curves.PNG?raw=true"/> 
+[Precision Recall Curves for All NLP Models Developed (click to see a larger picture)](images/Precision_Recall_Curves.PNG)
+<img src="images/Precision_Recall_Curves.PNG?raw=true"/> 
 
 
 ---
