@@ -50,6 +50,18 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 
 ---
 
+### Diagnosing COVID Infection Using Chest CT Scans and Deep Learning Models
+[White Paper](https://docs.google.com/document/d/1tqgsLxmJMESIS1umfFzvvO6LrEpHSe7dHGsX1zvpBXo/edit?usp=sharing) <br>
+[Presentation](https://docs.google.com/presentation/d/1YjssHAXVPUgLLcRoLHWWMD10kihpt5fHwWFfoxR7WHM/edit?usp=sharing) <br>
+[Jupyter Notebook](https://colab.research.google.com/drive/1mP1w7ZNzAR_yZ2__G1QwVK-CnpKQ8hPO?usp=sharing) <br>
+[Python Script to Deploy CNN Model to Edge Device](PY_Files/ct_cnn_detector.py)<br>
+This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes
+<br>
+<br>
+<img src="images/Covid_CNN_Image.PNG?raw=true"/> 
+
+
+
 ###
 
 - [Project 1 Title](http://example.com/)
