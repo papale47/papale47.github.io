@@ -6,7 +6,9 @@
 
 [Attrition Modeling Project](/Notebooks/Models.ipynb)
 [Paper](/Notebooks/Models.ipynb)
+<br>
 This project combines....
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
