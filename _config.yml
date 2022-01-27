@@ -9,11 +9,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   as well as my captone project from the MBA I completed at Mississippi State University in 2017.
   <br>
   <br>
-  Of note, most of the code I have included with my projects will open in Jupyter Notebook in Google Colab. Outside of the attrition modeling project, however, 
-  these notebooks are not intended to be run in Colab (some of them aren't even written in Python). Colab, in my opinion, just makes for an easier viewing experience 
-  with the Table of Content functionality.
-  <br>
-  <br>
   <a href="https://www.linkedin.com/in/jason-papale-97912b108">View My LinkedIn Profile</a> 
 
 github: is_project_page:false
