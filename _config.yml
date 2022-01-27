@@ -9,7 +9,7 @@ a project which mirrors some of the attrition modeling work I have been a part o
 as well as my captone project from the MBA I completed at Mississippi State University in 2015.
 <br>
 <br>
-Of note, most of the code I have included with my projects will open in Jupyter Notebook in Google Colab. Outside of the attrition modeling project, however,=
+Of note, most of the code I have included with my projects will open in Jupyter Notebook in Google Colab. Outside of the attrition modeling project, however, 
 these notebooks are not intended to be run in Colab (some of them aren't even written in Python). Colab, in my opinion, just makes for an easier viewing experience 
 with the Table of Content functionality.
 <br>
