@@ -58,7 +58,7 @@ This project entailed developing and evaluating several classification models de
 [White Paper](https://docs.google.com/document/d/1tqgsLxmJMESIS1umfFzvvO6LrEpHSe7dHGsX1zvpBXo/edit?usp=sharing) <br>
 [Presentation](https://docs.google.com/presentation/d/1YjssHAXVPUgLLcRoLHWWMD10kihpt5fHwWFfoxR7WHM/edit?usp=sharing) <br>
 [Jupyter Notebook](https://colab.research.google.com/drive/1mP1w7ZNzAR_yZ2__G1QwVK-CnpKQ8hPO?usp=sharing) <br>
-![Python Script to Deploy CNN Model to Edge Device](https://github.com/papale47/papale47.github.io/blob/master/PY_Files/ct_cnn_detector.py)<br><br>
+[Python Script to Deploy CNN Model to Edge Device](https://github.com/papale47/papale47.github.io/blob/master/PY_Files/ct_cnn_detector.py)<br><br>
 The objective with this project was to utilize cloud resources to develop a deep learning model which could classify respitory disease given a CT scan and then deploy that model to an edge device for local inference. Specifically, the three possible outcomes were: COVID, Pneumonia, and no diesease. I completed this project as part of the UC Berkeley MIDS program, and worked with 3 other teammates. My contributions centered primarily around the development of a baseline convolutional neural network, as well as writing the script to reconstruct the model on an Nvidia Jetson NX device, take a picture of a CT scan on using a webcam attached to the NX device, automatically crop and resize the image such that it would be consumable by the model, and then have the model generate a prediction. While the model performed quite well when using the higher fidelity training and evaluation data obtained from Kaggle, it (somewhat unsurprisingly) did not perform as well when generating predictions based on images obtained using a webcam and a picture of a CT scan being displayed on a computer screen.  In any event, a high level overview of the the architecture I employed in the baseline CNN is shown below.
 <br>
 <br>
@@ -68,7 +68,7 @@ The objective with this project was to utilize cloud resources to develop a deep
 
 ---
 ### Understanding Drivers Behind Crime in Gotham City Using Regression
-[Notebook](https://colab.research.google.com/drive/1M015KXvRmL2zYe8fxPcGjo_BAiaqRXfa?usp=sharing) <br>
+[Notebook](https://colab.research.google.com/drive/1M015KXvRmL2zYe8fxPcGjo_BAiaqRXfa?usp=sharing) <br><br>
 In this project, I, along with two other individuals in the UC Berkeley MIDS program, developed a series of linear regression models to better understand the drivers of crime using a selection of North Carolina crime data. Though it is my recollection that the dataset is derived from real data, I recall that it may have been altered by the instructors to facilitate certain learning points. I believe this is the reason that project is set in a fictional context (i.e., Gotham City). In any case, my contributions centered primarily around exploratory data anaylsis and data cleansing. Additionally, though this notebook is liked to Colab (an environment intended to be used with Python), the entirety of the code contained within this notebook is written in R. 
 <br>
 <br>
@@ -78,7 +78,7 @@ In this project, I, along with two other individuals in the UC Berkeley MIDS pro
 ---
 ### Business Consulting Project for IFish Fishing Apparel Company (Mississippi State MBA Capstone)
 [White Paper](pdf/IFish_Report.pdf) <br>
-[Presentation](pdf/IFISH_Final_Presentation.pdf) <br>
+[Presentation](pdf/IFISH_Final_Presentation.pdf) <br><br>
 As part of the capstone for the MBA program I completed at Mississippi State University, I, along with three other classmates, completed a consulting project with a small fishing apparel company called IFish. This project entailed conducting a review of the business, developing an understanding of how customer needs were being met by the existing fishing apparel marketplace, identifying how IFish could best position itself to fill gaps left by the existing marketplace, and providing a concise set of recommendations to the company owner. My contributions centered primarily around designing a focus group to better understand the wants and needs of potential customers, as well how those potential customers assessed the value of IFish's products. I also developed a repository of competitive intelligence around the offerings of competing fishing apparel companies so that it would be possible for our team to identify gaps in the existing marketplace.
 <br>
 <br>
