@@ -79,7 +79,7 @@ In this project, I, along with two other individuals in the UC Berkeley MIDS pro
 ### Business Consulting Project for IFish Fishing Apparel Company (Mississippi State MBA Capstone)
 [White Paper](pdf/IFish_Report.pdf) <br>
 [Presentation](pdf/IFISH_Final_Presentation.pdf) <br>
-With this project, I, along with three other teammates, partnered with a small fishing apparel company called IFish in order 
+As part of the capstone for the MBA program I completed at Mississippi State University, I, along with three other classmates, completed a consulting project with a small fishing apparel company called IFish. This project entailed conducting a review of the business, developing an understanding of how the existing fishing apparel marketplace was delivering value to customers, identifying how IFish could best position itself to fill gaps within the existing marketplace, and providing a concise set of recommendations to the company owner. My contributions centered primarily around designing a focus group to better understand the wants and needs of potential customers, as well how those potential customers assessed IFish's products. I also developed a repository of competitive intelligence around the offerings of competing fishing apparel companies so that it would be possible for our team to identify gaps in the existing marketplace.
 <br>
 <br>
 <img src="images/IFish_Logo.PNG?raw=true"/> 
