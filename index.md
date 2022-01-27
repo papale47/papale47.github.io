@@ -69,7 +69,7 @@ The objective with this project was to utilize cloud resources to develop a deep
 ---
 ### Understanding Drivers Behind Crime in Gotham City Using Regression
 [Notebook](https://colab.research.google.com/drive/1M015KXvRmL2zYe8fxPcGjo_BAiaqRXfa?usp=sharing) <br>
-In this project, I, along with two other individuals in the UC Berkeley MIDS program, developed a series of linear regression models to better understand the drivers of crime using a selection of North Carolina crime data. Though it is my recollection that the dataset is derived from real data, I recall that it may have been altered by the instructors to facilitate certain learning points. I believe this is the reason that project is set in a fictional context (i.e., Gotham City). In any case, my contributions centered primarily around exploratory data anaylsis and data cleansing. 
+In this project, I, along with two other individuals in the UC Berkeley MIDS program, developed a series of linear regression models to better understand the drivers of crime using a selection of North Carolina crime data. Though it is my recollection that the dataset is derived from real data, I recall that it may have been altered by the instructors to facilitate certain learning points. I believe this is the reason that project is set in a fictional context (i.e., Gotham City). In any case, my contributions centered primarily around exploratory data anaylsis and data cleansing. Additionally, though this notebook is liked to Colab (an environment intended to be used with Python), the entirety of the code contained within this notebook is written in R. 
 <br>
 <br>
 <img src="images/Gotham_City.jpg?raw=true"/> 
@@ -79,7 +79,7 @@ In this project, I, along with two other individuals in the UC Berkeley MIDS pro
 ### Business Consulting Project for IFish Fishing Apparel Company (Mississippi State MBA Capstone)
 [White Paper](pdf/IFish_Report.pdf) <br>
 [Presentation](pdf/IFISH_Final_Presentation.pdf) <br>
-
+With this project, I, along with three other teammates, partnered with a small fishing apparel company called IFish in order 
 <br>
 <br>
 <img src="images/IFish_Logo.PNG?raw=true"/> 
