@@ -9,7 +9,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.linkedin.com/in/jason-papale-97912b108">View My LinkedIn Profile</a> 
 
-github:
-is\_project\_page:false
+github: is\_project\_page:false
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
