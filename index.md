@@ -14,7 +14,7 @@ This project utilizes a customer churn dataset I obtained on Kaggle and entails 
 My initial motivation for creating this notebook was to consolidate existing bodies of work I have pursued (in both academic and professional settings) into one robust, end-to-end modeling pipeline. I was also interested in having a platform (i.e., Google Colab) on which I could use an open source dataset that would allow me to explore and become more proficient in data science techniques that I have not worked with yet. Another motivation for writing this notebook is to serve as a guide for others who are interested in learning more about modeling, experimentation, or translating model performance to business impact. Finally, I do intend to continually supplement and improve upon this notebook over time, so if there are any suggestions or errors which you identify, please let me know!
 <br>
 <br>
-[Economic Framework to Translate Model Performance into Expected Business Impact (click to see a larger picture)](images/Economic_Framework2.png)
+[Economic Framework to Translate Model Performance into Expected Business Impact (click to see a larger picture)](images/Net_Value.png)
 <img src="images/Economic_Framework2.png?raw=true"/>
 
 
