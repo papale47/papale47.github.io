@@ -15,7 +15,7 @@ My initial motivation for creating this notebook was to consolidate existing bod
 <br>
 <br>
 [Economic Framework to Translate Model Performance into Expected Business Impact (click to see a larger picture)](images/Net_Value.PNG)
-<img src="images/images/Net_Value.PNG?raw=true"/>
+<img src="images/Net_Value.PNG?raw=true"/>
 
 
 ---
