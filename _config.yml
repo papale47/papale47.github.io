@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   as well as my capstone project from the MBA I completed at Mississippi State University in 2017.
   <br>
   <br>
-  <a href="https://www.linkedin.com/in/jason-papale-97912b108">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jason-papale">View My LinkedIn Profile</a> 
 
 github: is_project_page:false
 theme: jekyll-theme-minimal
