@@ -1,5 +1,5 @@
 ## Portfolio
-Note: Most of these projects include a link to a Jupyter Notebook in Colab. This was done to make it easier to navigate through the notebooks, using Colab's Table of Contents functionality. The only notebook which is designed to run as written is the one associated with the attrition modeling project.
+Note: Most of these projects include a link to a Jupyter Notebook in Colab. This was done to make it easier to navigate through the notebooks with the use of Colab's Table of Contents functionality. The only notebook which is designed to run as written in Colab is the one associated with the attrition modeling project.
 
 ---
 
