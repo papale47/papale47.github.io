@@ -1,9 +1,10 @@
 ## Portfolio
+Note: Most of these projects include a link to a Jupyter Notebook in Colab. This was done to make it easier to navigate through the notebooks. Most of these notebooks will not run in Colab, and some are not even written in Python.
 
 ---
 
 ### Attrition Modeling Project
-[Jupyter Notebook](https://colab.research.google.com/drive/1WpCJY0jThIiQxfWPF62ycwbyh8s5P2vU?usp=sharing) <br><br>
+[Jupyter Notebook](https://colab.research.google.com/drive/1LkQ65KGcE_Oz6XolP3w4Df4yX0BWLhMm?usp=sharing) <br><br>
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes:
 <br>
 1.  Exploratory data analysis (which includes dimensionality reduction and clustering techniques) and data transformations  <br>
