@@ -46,7 +46,6 @@ I completed this project as part of the UC Berkeley MIDS program, and it entaile
 
 ---
 ### Predicting Airline Delays with PySpark
-[Presentation](https://docs.google.com/presentation/d/10HnP3S5U1qiBSeUcAGHE4QvmwD1jCLBdbmKnRZLdBdk/edit?usp=sharing) <br>
 [Jupyter Notebook](https://colab.research.google.com/drive/1_nijztiOgOJ0UI98Ix1GdhtSRPcjKztC?usp=sharing) <br><br>
 This project entailed developing and evaluating several classification models designed to predict whether or not a flight would have an arrival delay of at least 15 minutes. I completed this project as part of the UC Berkeley MIDS program, and I collaborated with two other individuals. Due to the division of labor between this project and another unrelated assignment, my contribution encompassed the development of most parts of this notebook. Of note, this project was developed using Databricks and was written primarily in PySpark. In terms of the modeling, there were three models which were trained and evaluated: a Gradient Boosted Tree model, a Random Forest model, and a Logistic Regression model. The Gradient Boosted Tree model performed the best in terms of the area under the ROC and precision-recall curves as can be seen in the results shown below.
 <br>
@@ -58,7 +57,7 @@ This project entailed developing and evaluating several classification models de
 ---
 ### Diagnosing COVID Infection Using Chest CT Scans and Deep Learning Models
 [White Paper](https://docs.google.com/document/d/1tqgsLxmJMESIS1umfFzvvO6LrEpHSe7dHGsX1zvpBXo/edit?usp=sharing) <br>
-[Presentation](https://docs.google.com/presentation/d/1YjssHAXVPUgLLcRoLHWWMD10kihpt5fHwWFfoxR7WHM/edit?usp=sharing) <br>
+[Presentation](https://docs.google.com/presentation/d/141aqIfPYyV5O5JCnim5SX8bKODQJGwlTzBdxHKdwKXY/edit?usp=sharing) <br>
 [Jupyter Notebook](https://colab.research.google.com/drive/1mP1w7ZNzAR_yZ2__G1QwVK-CnpKQ8hPO?usp=sharing) <br>
 [Python Script to Deploy CNN Model to Edge Device](https://github.com/papale47/papale47.github.io/blob/master/PY_Files/ct_cnn_detector.py)<br><br>
 The objective with this project was to utilize cloud resources to develop a deep learning model which could classify respiratory disease given a CT scan and then deploy that model to an edge device for local inference. Specifically, the three possible outcomes were: COVID, Pneumonia, and no disease. I completed this project with 3 other teammates as part of the UC Berkeley MIDS program. My contributions centered primarily around the development of a baseline convolutional neural network, as well as writing the script to reconstruct the model on an Nvidia Jetson NX device, take a picture of a CT scan on using a webcam attached to the NX device, automatically crop and resize the image such that it would be consumable by the model, and then have the model generate a prediction. While the model performed quite well when using the higher fidelity training and evaluation data obtained from Kaggle, it (somewhat unsurprisingly) did not perform as well when generating predictions based on images obtained using a webcam and a picture of a CT scan being displayed on a computer screen.  In any event, a high-level overview of the architecture I employed in the baseline CNN is shown below.
