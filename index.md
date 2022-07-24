@@ -4,7 +4,8 @@ Note: Most of these projects include a link to a Jupyter Notebook in Colab. This
 ---
 
 ### Attrition Modeling Project
-[Jupyter Notebook](https://colab.research.google.com/drive/1LkQ65KGcE_Oz6XolP3w4Df4yX0BWLhMm?usp=sharing) <br><br>
+[Jupyter Notebook](https://colab.research.google.com/drive/1LkQ65KGcE_Oz6XolP3w4Df4yX0BWLhMm?usp=sharing) <br>
+[Presentation](https://docs.google.com/presentation/d/1mqQj5MJvuWVrUOKSyWe9eyuS83lkR7fOF5863mZnQGI/edit?usp=sharing) <br><br>
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes:
 <br>
 1.  Exploratory data analysis (which includes dimensionality reduction and clustering techniques) and data transformations  <br>
