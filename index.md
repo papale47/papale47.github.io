@@ -9,7 +9,7 @@ Note: Most of these projects include a link to a Jupyter Notebook in Colab. This
 This project utilizes a customer churn dataset I obtained on Kaggle and entails building two binary classifier models to predict churn. The project also includes:
 <br>
 1.  Exploratory data analysis (which includes dimensionality reduction and clustering techniques) and data transformations  <br>
-2.  Hyperparameter tuning using a Genetic Algorithm and a custom net economic value function as a metric to score model performance <br>
+2.  Hyperparameter tuning using a Genetic Algorithm <br>
 3.  An economic framework (illustrated below in the image) which aids in translating model performance into expected business impact, as well as in identifying the optimal classification threshold <br>
 4.  A simulated experiment which quantifies the impact of a model-driven treatment 
 
