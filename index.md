@@ -3,7 +3,7 @@ Note: Most of these projects include a link to a Jupyter Notebook in Colab. This
 
 ---
 ### ParkZen Forecasting Project
-[Jupyter Notebook](https://colab.research.google.com/drive/1NZjIlHnsFhlbO4HVlJOsN3xz-uF6Jscb#scrollTo=MkgKoBgZ1ahZ) <br>
+[Jupyter Notebook](https://colab.research.google.com/drive/1NZjIlHnsFhlbO4HVlJOsN3xz-uF6Jscb#scrollTo=MkgKoBgZ1ahZ) <br><br>
 This project entailed training and evaluating several forecasting models to predict the future occupancy of parking lots given current occupancy, as well as other independent variables (e.g., day of week). I performed this project to help my friend Manos Chatzopoulos, CEO of ParkZen, better leverage parking data available within his company.
 <br>
 <br>
