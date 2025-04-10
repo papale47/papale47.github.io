@@ -2,7 +2,14 @@
 Note: Most of these projects include a link to a Jupyter Notebook in Colab. This was done to make it easier to navigate through the notebooks with the use of Colab's Table of Contents functionality. That said, the only notebook which is designed to run as written in Colab is the one associated with the attrition modeling project.
 
 ---
+### ParkZen Forecasting Project
+[Jupyter Notebook](https://colab.research.google.com/drive/1NZjIlHnsFhlbO4HVlJOsN3xz-uF6Jscb#scrollTo=MkgKoBgZ1ahZ) <br>
+This project entailed training and evaluating several forecasting models to predict the future occupancy of parking lots given current occupancy, as well as other independent variables (e.g., day of week). I performed this project to help my friend Manos Chatzopoulos, CEO of ParkZen, better leverage parking data available within his company.
+<br>
+<br>
 
+
+---
 ### Attrition Modeling Project
 [Jupyter Notebook](https://colab.research.google.com/drive/1sHXkTWLu-21rMSyXAApG52ejHnL7aABw?usp=sharing) <br>
 [Presentation](https://docs.google.com/presentation/d/1mqQj5MJvuWVrUOKSyWe9eyuS83lkR7fOF5863mZnQGI/edit?usp=sharing) <br><br>
