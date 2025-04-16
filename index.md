@@ -2,6 +2,21 @@
 Note: Most of these projects include a link to a Jupyter Notebook in Colab. This was done to make it easier to navigate through the notebooks with the use of Colab's Table of Contents functionality. That said, the only notebook which is designed to run as written in Colab is the one associated with the attrition modeling project.
 
 ---
+### Power Analysis and Experiment Analysis
+[Jupyter Notebook (Power Analysis)](https://colab.research.google.com/drive/13ppjrbEVKbhfWTBLmT3SuIYbZvHmXZ_z#scrollTo=BWGEJ3eKhUu-) <br>
+[Jupyter Notebook (Experiment Analysis)](https://colab.research.google.com/drive/1zBys67ADftUMQZ5L3d8wVvrHZwMF8GkW#scrollTo=DMhAna-IRQVU) <br><br>
+There are two Jupyter notebooks linked above.  The first notebook goes through the steps required to perform a power analysis using a (synthetic) historical dataset and:
+1.  Generates a table which provides test sizing options for various levels of statistical significance and power and minimum detectable effect (MDE) sizes, as well as expected timeframes for test duration and metric curing.  <br>
+2.  Evaluates conversion rate with respect to tenure to make it easier to determine an appropriate curing timeframe for conversion rate. <br>
+3.  Provides a short summary which explains the selected test sizing option and the assocaited inputs, as well as an Excel file which contains one tab for each metric evaluated (only evaluating one metric in this notebook). <br><br>
+
+The second notebook focuses on performing an analysis on data from an experiment (using another synthetic dataset) and includes:
+1.  Customer and product-level analysis.  <br>
+2.  A logistic regression model to perform statistical testing on the key metric of conversion rate, as well as to perform a high-level covariate balance check.
+3.  A Generative AI-powered pipeline that first identifies the main themes prevalent in freeform survey responses and then associates each response with one or more themes, as applicable.  This then makes it possible to quantify the extent to which the treatment impacted sentiment at a theme level.
+<br><br>
+
+---
 ### ParkZen Forecasting Project
 [Jupyter Notebook](https://colab.research.google.com/drive/1NZjIlHnsFhlbO4HVlJOsN3xz-uF6Jscb#scrollTo=MkgKoBgZ1ahZ) <br><br>
 This project entailed training and evaluating several forecasting models to predict the future occupancy of parking lots given current occupancy, as well as other independent variables (e.g., day of week). I performed this project to help my friend Manos Chatzopoulos, CEO of ParkZen, better leverage parking data available within his company.
