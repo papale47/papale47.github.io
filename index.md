@@ -17,7 +17,7 @@ There are two Jupyter notebooks linked above.  The first notebook goes through t
 1.  Generates a table which provides test sizing options for various levels of statistical significance and power and minimum detectable effect (MDE) sizes, as well as expected timeframes for test duration and metric curing.  <br>
 2.  Evaluates conversion rate with respect to tenure to make it easier to determine an appropriate curing timeframe for conversion rate. <br>
 3.  Provides a short summary which explains the selected test sizing option and the associated inputs, as well as an Excel file which contains one tab for each metric evaluated (only evaluating one metric in this notebook). <br>
-Note: While this notebook is still included to make the code accessible, a Streamlit App linked above contains all the functionality within this notebook and makes it avialable in a more user-friendly and interactive way.
+**Note**: While this notebook is still included to make the code accessible, a Streamlit App linked above contains all the functionality within this notebook and makes it avialable in a more user-friendly and interactive way.
 <br><br>
 
 The second notebook focuses on performing an analysis on data from an experiment (using another synthetic dataset) and includes:
