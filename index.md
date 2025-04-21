@@ -1,4 +1,4 @@
-<img width="1404" alt="image" src="https://github.com/user-attachments/assets/77596995-38f6-4d5a-bac1-f48e076b3449" />## Portfolio
+## Portfolio
 Note: Most of these projects include a link to a Jupyter Notebook in Colab. This was done to make it easier to navigate through the notebooks with the use of Colab's Table of Contents functionality. That said, the only projects where the notebooks are designed to run as-is using Colab are the first three projects listed.
 
 ---
