@@ -4,7 +4,7 @@ Note: Most of these projects include a link to a Jupyter Notebook in Colab. This
 ---
 ### Power Analysis and Experiment Analysis
 [Streamlit App (Experimentation Toolkit)](https://papale47-experimentation-tools-streamlit-app-akgz6j.streamlit.app/) <br>
-This is an app I developed (with the help of Generative AI) that takes the core components of the power analysis notebook below and presents it in a more user-friendly and interactive app using Streamlit.  This tool allows you to import a dataset (or create a synthetic one for learning purposes) and conduct a power analysis using that dataset or using manual inputs. This app also allows you to evaluate customer signup volumes over time and conversion timing, which are important considerations when planning an experiment where a customer is the unit of observation and conversion is the key metric.
+This is an app I developed (with the help of Generative AI) that takes the core components of the power analysis notebook linked below and presents it in a more user-friendly and interactive app using Streamlit.  This tool allows you to import a dataset (or create a synthetic one for learning purposes) and conduct a power analysis using that dataset or using manual inputs. This app also allows you to evaluate customer signup volumes over time and conversion timing, which are important considerations when planning an experiment where a customer is the unit of observation and conversion is the key metric.
 <br>
 <br>
 <img src="images/Streamlit App 2.png?raw=true"/> 
@@ -16,7 +16,9 @@ This is an app I developed (with the help of Generative AI) that takes the core 
 There are two Jupyter notebooks linked above.  The first notebook goes through the steps required to perform a power analysis using a (synthetic) historical dataset and:
 1.  Generates a table which provides test sizing options for various levels of statistical significance and power and minimum detectable effect (MDE) sizes, as well as expected timeframes for test duration and metric curing.  <br>
 2.  Evaluates conversion rate with respect to tenure to make it easier to determine an appropriate curing timeframe for conversion rate. <br>
-3.  Provides a short summary which explains the selected test sizing option and the associated inputs, as well as an Excel file which contains one tab for each metric evaluated (only evaluating one metric in this notebook). <br><br>
+3.  Provides a short summary which explains the selected test sizing option and the associated inputs, as well as an Excel file which contains one tab for each metric evaluated (only evaluating one metric in this notebook). <br>
+Note: While this notebook is still included to make the code accessible, a Streamlit App linked above contains all the functionality within this notebook and makes it avialable in a more user-friendly and interactive way.
+<br><br>
 
 The second notebook focuses on performing an analysis on data from an experiment (using another synthetic dataset) and includes:
 1.  Customer and product-level analysis.  <br>
