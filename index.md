@@ -25,8 +25,8 @@ The second notebook focuses on performing an analysis on data from an experiment
 1.  Customer and product-level analysis.  <br>
 2.  A logistic regression model to perform statistical testing on the key metric of conversion rate, as well as to perform a high-level covariate balance check.
 3.  A Generative AI-powered pipeline that first identifies the main themes prevalent in freeform survey responses and then associates each response with one or more themes, as applicable.  This then makes it possible to quantify the extent to which the treatment impacted sentiment at a theme level.
-<img src="images/Freeform Response Analysis 2.png?raw=true"/> 
-
+[Comparison of Prevalent Themes between Treatment and Contorl (click to see a larger picture)](images/Freeform%20Response%20Analysis%202.png)
+<img src="images/Freeform Response Analysis 2.png?raw=true"/>
 
 ---
 ### ParkZen Forecasting Project
