@@ -34,6 +34,7 @@ The second notebook focuses on performing an analysis on data from an experiment
 This project entailed training and evaluating several forecasting models to predict the future occupancy of parking lots given current occupancy, as well as other independent variables (e.g., day of week). I performed this project to help my friend Manos Chatzopoulos, CEO of ParkZen, better leverage parking data available within his company.
 <br>
 <br>
+[Model Evaluation Visualizations (click to see a larger picture)](images/Forecasting%20Results.PNG)
 <img src="images/Forecasting Results.png?raw=true"/> 
 
 
