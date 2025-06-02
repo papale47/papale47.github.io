@@ -74,7 +74,7 @@ My initial motivation for creating this notebook was to consolidate existing bod
 ### Foster Care Matcher Project (UC Berkeley MIDS Capstone)
 <a href="https://www.ischool.berkeley.edu/projects/2021/foster-care-matcher" onclick="analytics.track('button_clicked', 
                                                                                                            { 'project_clicked': 'Foster Care Matcher',
-                                                                                                             'item_clicked': 'Project Page (Berkeley Website'})">Project Page (Berkeley Website)</a> <br>
+                                                                                                             'item_clicked': 'Project Page (Berkeley Website)'})">Project Page (Berkeley Website)</a> <br>
 <a href="https://colab.research.google.com/drive/1R582ZZjfWUIhLHSJTNy6it1xjZUhsvSm?usp=sharing" onclick="analytics.track('button_clicked', 
                                                                                                                                          { 'project_clicked': 'Foster Care Matcher',
                                                                                                                                            'item_clicked': 'Jupyter Notebook'})">Jupyter Notebook</a> <br><br>
