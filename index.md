@@ -116,7 +116,7 @@ This project entailed developing and evaluating several classification models de
 
 ---
 ### Diagnosing COVID Infection Using Chest CT Scans and Deep Learning Models
-<a href="https://docs.google.com/document/d/1tqgsLxmJMESIS1umfFzvvO6LrEpHSe7dHGsX1zvpBXo/edit?usp=sharing" onclick="analytics.track('button_clicked', 
+<a href="https://github.com/papale47/papale47.github.io/blob/master/pdf/Predicting%20COVID%20Infection%20Using%20Chest%20CT%20Scans.pdf" onclick="analytics.track('button_clicked', 
                                                                                                                            { 'project_clicked': 'Diagnosing COVID Infection',
                                                                                                                              'item_clicked': 'White Paper'})">White Paper</a> <br>
 <a href="https://docs.google.com/presentation/d/141aqIfPYyV5O5JCnim5SX8bKODQJGwlTzBdxHKdwKXY/edit?usp=sharing" onclick="analytics.track('button_clicked', 
