@@ -8,9 +8,7 @@ Note: Most of these projects include a link to a Jupyter Notebook in Colab. This
 This is an app I developed (with the help of Generative AI) that takes the core components of the power analysis notebook linked below and presents it in a more user-friendly and interactive app using Streamlit (feel free to wake the app up if it has gone to sleep due to inactivity).  This tool allows you to import a dataset (or create a synthetic one for learning purposes) and conduct a power analysis using that dataset or using manual inputs. This app also allows you to evaluate customer signup volumes over time and conversion timing, which are important considerations when planning an experiment where a customer is the unit of observation and conversion is the key metric.
 <br>
 <br>
-
 [Streamlit App (click to see a larger picture)](images/Streamlit%20App%202.png)
-
 <img src="images/Streamlit App 2.png?raw=true"/> 
 
 #### Jupyter Notebooks
