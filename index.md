@@ -78,9 +78,6 @@ My initial motivation for creating this notebook was to consolidate existing bod
 <a href="https://groups.ischool.berkeley.edu/FostercareMatcher/" onclick="analytics.track('button_clicked', 
                                                                                              { 'project_clicked': 'Foster Care Matcher',
                                                                                                'item_clicked': 'Project Page (Website Developed by Team'})">Project Page (Website Developed by Team)</a> <br>
-<a href="https://docs.google.com/presentation/d/1i6v82ls_K5gv1CMo65wCuCMUe5iEGgjahMEikmlWTy4/edit?usp=sharing" onclick="analytics.track('button_clicked', 
-                                                                                                                                         { 'project_clicked': 'Foster Care Matcher',
-                                                                                                                                           'item_clicked': 'Presentation'})">Presentation</a> <br>
 <a href="https://colab.research.google.com/drive/1R582ZZjfWUIhLHSJTNy6it1xjZUhsvSm?usp=sharing" onclick="analytics.track('button_clicked', 
                                                                                                                                          { 'project_clicked': 'Foster Care Matcher',
                                                                                                                                            'item_clicked': 'Jupyter Notebook'})">Jupyter Notebook</a> <br><br>
