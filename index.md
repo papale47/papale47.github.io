@@ -5,8 +5,8 @@ Note: Most of these projects include a link to a Jupyter Notebook in Colab. This
 ### Power Analysis and Experiment Analysis
 <!-- [Streamlit App (Experimentation Toolkit)](https://papale47-experimentation-tools-streamlit-app-akgz6j.streamlit.app/) <br> -->
 <a href="https://papale47-experimentation-tools-streamlit-app-akgz6j.streamlit.app/" onclick="analytics.track('button_clicked', 
-                                                                                                              {'project_clicked': 'streamlit_app', 
-                                                                                                               'item_clicked': >'streamlit_app'}                                                                                                                                                                        )">Streamlit App (Experimentation Toolkit)</a> <br>
+                                                                                                                {'project_clicked': 'streamlit_app', 
+                                                                                                                 'item_clicked': >'streamlit_app'}                                                                                                                                                                        )">Streamlit App (Experimentation Toolkit)</a> <br>
 This is an app I developed (with the help of Generative AI) that takes the core components of the power analysis notebook linked below and presents it in a more user-friendly and interactive app using Streamlit (feel free to wake the app up if it has gone to sleep due to inactivity).  This tool allows you to import a dataset (or create a synthetic one for learning purposes) and conduct a power analysis using that dataset or using manual inputs. This app also allows you to evaluate customer signup volumes over time and conversion timing, which are important considerations when planning an experiment where a customer is the unit of observation and conversion is the key metric.
 <br>
 <br>
@@ -36,7 +36,7 @@ The second notebook focuses on performing an analysis on data from an experiment
 ### ParkZen Forecasting Project
 <!-- [Jupyter Notebook](https://colab.research.google.com/drive/1NZjIlHnsFhlbO4HVlJOsN3xz-uF6Jscb#scrollTo=MkgKoBgZ1ahZ) <br><br> -->
 <a href="https://colab.research.google.com/drive/1NZjIlHnsFhlbO4HVlJOsN3xz-uF6Jscb#scrollTo=MkgKoBgZ1ahZ" onclick="analytics.track('button_clicked', { 'project_clicked': 'parkzen_forecasting',
-                                             'item_clicked': 'jupyter_notebook'                                                                          })">Jupyter Notebook</a> <br><br>
+                                             'item_clicked': 'jupyter_notebook'})">Jupyter Notebook</a> <br><br>
 This project entailed training and evaluating several forecasting models to predict the future occupancy of parking lots given current occupancy, as well as other independent variables (e.g., day of week). I performed this project to help my friend Manos Chatzopoulos, CEO of ParkZen, better leverage parking data available within his company.
 <br>
 <br>
