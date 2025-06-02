@@ -1,5 +1,5 @@
 ## Portfolio
-Note: Most of these projects include a link to a Jupyter Notebook in Colab. This was done to make it easier to navigate through the notebooks with the use of Colab's Table of Contents functionality. That said, the only projects where the notebooks are designed to run as-is using Colab are the first three projects listed.
+Note: Most of these projects include a link to a Jupyter Notebook in Colab. This was done to make it easier to navigate through the notebooks with the use of Colab's Table of Contents functionality. That said, the only projects where the notebooks are designed to run as-is using Colab are the first three projects listed.  I've also created this [Dashboard](https://mixpanel.com/public/RDfjhWxM3sAKBHoJZNn4N2) which leverages Segment and Mixpanel to show utilization of this portfolio.
 
 ---
 ### Power Analysis and Experiment Analysis
