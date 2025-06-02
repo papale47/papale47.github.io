@@ -10,6 +10,7 @@ This is an app I developed (with the help of Generative AI) that takes the core 
 <br>
 
 [Streamlit App (click to see a larger picture)](images/Streamlit%20App%202.png)
+
 <img src="images/Streamlit App 2.png?raw=true"/> 
 
 #### Jupyter Notebooks
